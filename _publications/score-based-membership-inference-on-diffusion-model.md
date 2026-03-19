@@ -1,7 +1,7 @@
 ---
 title: "Score-based Membership Inference on Diffusion Models"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-09-01-score-based-membership-inference
 date: 2025-09-01
 venue: 'Submitted to Neurocomputing'

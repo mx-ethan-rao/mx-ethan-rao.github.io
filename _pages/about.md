@@ -28,4 +28,4 @@ My research interests primarily lie in Generative Models, Model Inversion, Membe
 ### 🌟 Beyond Research (Side Quests & Hobbies)
 
 * **AI Agents:** Raising a squad of four **OpenClaw** to automate my daily routine. Still exploring more possibilities!
-* **My "Secondary Research":** I am a huge car enthusiast. Whether it's geeking out over vehicle dynamics, following Formula One, or just hitting the road to decompress, fun driving is my ultimate stress relief. Always down to chat about anything automotive!
+* **My "Secondary Research":** I am a huge car enthusiast. Whether it's geeking out over vehicle dynamics, following Formula 1, or just hitting the road to decompress, fun driving is my ultimate stress relief. Always down to chat about anything automotive!
