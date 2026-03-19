@@ -1,6 +1,15 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
-Hi there! I am a third-year Ph.D. student in Computer Science at Vanderbilt University, advised by [Prof. Daniel Moyer](https://dcmoyer.github.io/). Prior to this, I received my B.Sc. (Hons.) in Computer Science from Hong Kong Baptist University, where I was granted the [Scholastic Award](https://ar.hkbu.edu.hk/student-services/graduation/scholastic-awards) as one of the top 2% of graduates.
+Hi there! I am a fourth-year Ph.D. student in Computer Science at Vanderbilt University, advised by [Prof. Daniel Moyer](https://dcmoyer.github.io/). Prior to this, I received my B.Sc. (Hons.) in Computer Science from Hong Kong Baptist University, where I was granted the [Scholastic Award](https://ar.hkbu.edu.hk/student-services/graduation/scholastic-awards) as one of the top 2% of graduates.
 
 My research interests primarily lie in Generative Models, Model Inversion, Membership Inference, and Monocular Depth Estimation. Currently, I am also working as a Research Assistant for the Advanced Research Projects Agency for Health (ARPA-H), focusing on robotic vision development—specifically Monocular Depth Estimation (MDE) for endoscopic imaging in automated surgical programs. 
 
