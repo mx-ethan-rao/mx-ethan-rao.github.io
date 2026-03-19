@@ -20,7 +20,7 @@ My research interests primarily lie in Generative Models, Model Inversion, Membe
 ### 🔥 Recent News
 * **[2026]** Our paper "Latent Diffusion Inversion Requires Understanding the Latent Space" has been accepted to **CVPR 2026**!
 * **[2026]** Our paper "Generalization and Memorization in Rectified Flow" is currently under review at **ECCV 2026**.
-* **[2024]** Our work on Zero-shot Prompt-based Video Encoder was presented at **IPCAI 2024** and published in **IJCARS**.
+* **[2024]** Our paper "Zero-shot Prompt-based Video Encoder for Surgical Gesture Recognition" was accepted at **IPCAI 2024** and published in **IJCARS**.
 
 
 ---
