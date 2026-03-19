@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mingxing Rao"
+title                    : "Mingxing (Ethan) Rao"
 title_separator          : "-"
 name                     : &name "Mingxing (Ethan) Rao"
 description              : &description "Mingxing Rao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "mx-ethan-rao/mx-ethan-rao.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mingxing Rao"
+  name             : "Mingxing (Ethan) Rao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Computer Science at Vanderbilt University."
   location         : "Nashville, USA"
