@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Latent Diffusion Inversion Requires Understanding the Latent Space"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+permalink: /publication/2026-01-01-latent-diffusion-inversion
+excerpt: 'This paper investigates latent diffusion models, demonstrating that effective inversion requires a deep understanding of the latent space.'
+date: 2026-01-01
+venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2026)'
+paperurl: 'https://arxiv.org/pdf/2511.20592'
+citation: 'Rao, M., Qu, B., &amp; Moyer, D. (2026). &quot;Latent Diffusion Inversion Requires Understanding the Latent Space.&quot; <i>CVPR 2026</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+[cite_start]This paper was accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
+
+You can access the preprint version via the paper link above.
