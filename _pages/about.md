@@ -18,8 +18,8 @@ My research interests primarily lie in Generative Models, Model Inversion, Membe
 ---
 
 ### 🔥 Recent News
+* **[2026]** Our paper "Generalization and Memorization in Rectified Flow" has been accepted to **ECCV 2026**.
 * **[2026]** Our paper "Latent Diffusion Inversion Requires Understanding the Latent Space" has been accepted to **CVPR 2026**!
-* **[2026]** Our paper "Generalization and Memorization in Rectified Flow" is currently under review at **ECCV 2026**.
 * **[2024]** Our paper "Zero-shot Prompt-based Video Encoder for Surgical Gesture Recognition" was accepted at **IPCAI 2024** and published in **IJCARS**.
 
 
@@ -27,5 +27,4 @@ My research interests primarily lie in Generative Models, Model Inversion, Membe
 
 ### 🌟 Beyond Research (Side Quests & Hobbies)
 
-* **AI Agents:** Raising a squad of four **OpenClaw** to automate my daily routine. Still exploring more possibilities!
 * **My "Secondary Research":** I am a huge car enthusiast. Whether it's geeking out over vehicle dynamics, following Formula 1, or just hitting the road to decompress, fun driving is my ultimate stress relief. Always down to chat about anything automotive!
