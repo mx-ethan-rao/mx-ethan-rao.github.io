@@ -8,4 +8,4 @@ venue: 'Transaction of Machine Learning Research (TMLR)'
 paperurl: 'https://arxiv.org/pdf/2509.25003'
 ---
 
-his paper was accepted at Transaction of Machine Learning Research (TMLR). 
+This paper was accepted at Transaction of Machine Learning Research (TMLR). 
