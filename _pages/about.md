@@ -18,10 +18,11 @@ My research interests primarily lie in Generative Models, Model Inversion, Membe
 ---
 
 ### 🔥 Recent News
-* **[2026]** Our paper "Score-based Membership Inference on Diffusion Models" has been accepted to **Transactions on Machine Learning Research (TMLR)**!
-* **[2026]** Our paper "Generalization and Memorization in Rectified Flow" has been accepted to **ECCV 2026**!
-* **[2026]** Our paper "Latent Diffusion Inversion Requires Understanding the Latent Space" has been accepted to **CVPR 2026**!
-* **[2024]** Our paper "Zero-shot Prompt-based Video Encoder for Surgical Gesture Recognition" was accepted at **IPCAI 2024** and published in **IJCARS**.
+* **[Aug 2026]** I will be joining [Aether AI](https://www.aetherai.co/) as an AI Research and Engineering Intern!
+* **[Jul 2026]** Our paper "Score-based Membership Inference on Diffusion Models" has been accepted to **Transactions on Machine Learning Research (TMLR)**!
+* **[Jun 2026]** Our paper "Generalization and Memorization in Rectified Flow" has been accepted to **ECCV 2026**!
+* **[Feb 2026]** Our paper "Latent Diffusion Inversion Requires Understanding the Latent Space" has been accepted to **CVPR 2026**!
+* **[Apr 2024]** Our paper "Zero-shot Prompt-based Video Encoder for Surgical Gesture Recognition" was accepted at **IPCAI 2024** and published in **IJCARS**.
 
 
 ---
